@@ -5,5 +5,5 @@ It is a pretty simple http server at hand
 ## Usage
 
 ```
-go run github.com/shafreeck/simplehttpserver 
+go get github.com/shafreeck/simplehttpserver 
 ```
